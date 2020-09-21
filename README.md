@@ -18,3 +18,5 @@
 <p align="center">
 <a href="https://www.youtube.com/c/hackballearning" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="hackballearning" height="30" width="30" /></a>
 </p>
+<p>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullasirajudeen)](https://github.com/abdullasirajudeen/github-readme-stats)
+</p>
