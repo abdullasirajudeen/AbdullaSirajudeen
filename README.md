@@ -13,7 +13,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true" alt="abdullasirajudeen" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 <p align="center">
 <a href="https://www.youtube.com/c/hackballearning" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="hackballearning" height="30" width="30" /></a>
