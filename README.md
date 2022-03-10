@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Dart and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://www.hackbal.com/](https://www.hackbal.com/)
-
-- 📫 How to reach me **abdu@hackbal.com**
+- 📫 How to reach me **abdullasirajudeen@gmail.com**
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
