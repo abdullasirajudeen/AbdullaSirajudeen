@@ -15,10 +15,11 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
+  
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" /></p>
 
 <p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullasirajudeen" alt="abdullasirajudeen" /></a> </p>
