@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulla Sirajudeen</h1>
 <h3 align="center">A passionate ASP .NET MVC developer from India</h3>
 
-- 🌱 I’m currently learning **Dart and Laravel**
 
 - 📫 How to reach me **abdullasirajudeen@gmail.com**
 
