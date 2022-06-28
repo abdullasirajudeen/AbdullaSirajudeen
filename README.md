@@ -12,14 +12,13 @@
   
 </p>
 
-<p align="left">
+<div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" />
-</p>
-</br>
-<p align="left">
+</div>
+<div align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
-</p>
+</div>
 
 <p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullasirajudeen" alt="abdullasirajudeen" /></a> </p>
