@@ -18,7 +18,7 @@
 </br>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
 </p>
 
 <p></p>
