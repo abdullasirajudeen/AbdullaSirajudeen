@@ -13,10 +13,10 @@
   
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
 </p>
 
 <p></p>
