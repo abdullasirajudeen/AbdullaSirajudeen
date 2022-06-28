@@ -12,10 +12,10 @@
   
 </p>
 
-<div align="left">
+<div >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" />
 </div>
-<div align="left">
+<div >
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" />
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullasirajudeen&" alt="abdullasirajudeen" />
 </div>
