@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/4700370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4700370" height="30" width="40" /></a>
   
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullasirajudeen&show_icons=true&locale=en&layout=compact" alt="abdullasirajudeen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&locale=en" alt="abdullasirajudeen" /></p>
 
