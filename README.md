@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Abdulla Sirajudeen</h1>
 <h3 align="center">A passionate ASP .NET MVC developer from India</h3>
 <h5 align="center">Senior Software Engineer at InnovazIT Technologies (Dubai, United Arab Emirates) || Full Stack Developer || Asp.Net MVC || Asp.Net Core || Web API</h5>
@@ -74,16 +73,7 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
   
-  <h3 align="left">Tools:</h3>
-  <!--Tools-->
-
-  <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
+   <h3 align="left">Database:</h3>
  <!--Database-->
   
   <a href="https://www.mongodb.com/" target="_blank"> 
@@ -98,6 +88,17 @@
  
   <a href="https://www.postgresql.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+
+  <h3 align="left">Tools:</h3>
+  <!--Tools-->
+
+  <a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://postman.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
  
 
