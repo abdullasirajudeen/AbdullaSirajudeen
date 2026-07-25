@@ -24,87 +24,40 @@
 - ☁️ AWS Certified Cloud Practitioner, working with Azure DevOps Pipelines for CI/CD
 - 📍 Based in Dubai, UAE
 
-<h3 align="left">Languages & Frameworks</h3>
-<table border="1">
-    <thead>
-        <tr>
-            <td colspan="2"><h3 align="center">Frontend</h3></td>
-            <td colspan="2"><h3 align="center">Backend</h3></td>
-            <td colspan="3"><h3 align="center">Database</h3></td>
-            <td colspan="2"><h3 align="center">Cloud & DevOps</h3></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://angular.io" target="_blank">
-                    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://react.dev" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://dotnet.microsoft.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://www.w3schools.com/cs/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-                    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://www.mysql.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://www.php.net" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://aws.amazon.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-                </a>
-            </td>
-            <td>
-                <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azuredevops" width="40" height="40" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<h3 align="left">Tools:</h3>
+### Languages & Frameworks
 <p align="left">
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</a>
-<a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-</a>
-<a href="https://github.com/actions" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="Github Action" width="40" height="40" />
-</a>
-<a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40" />
-</a>
-<a href="https://www.nopcommerce.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nopcommerce.svg" alt="nopcommerce" width="40" height="40" />
-</a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/NopCommerce-00A550?style=for-the-badge&logoColor=white" />
+</p>
+
+### GitHub Stats
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&theme=radical" alt="abdullasirajudeen" width="48%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasirajudeen&layout=compact&theme=radical" alt="abdullasirajudeen" width="48%" />
