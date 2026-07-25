@@ -56,9 +56,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/NopCommerce-00A550?style=for-the-badge&logoColor=white" />
 </p>
-
-### GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullasirajudeen&show_icons=true&theme=radical" alt="abdullasirajudeen" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasirajudeen&layout=compact&theme=radical" alt="abdullasirajudeen" width="48%" />
-</p>
